@@ -1,3 +1,7 @@
 .bor{
     border-radius: 10px;
 }
+.cr-color{
+    background-color: rgb(223, 132, 132);
+    border-radius: 70%;
+}
